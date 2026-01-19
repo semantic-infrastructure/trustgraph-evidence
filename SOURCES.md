@@ -15,8 +15,8 @@ They are used to ground terminology, scope boundaries, and reference models.
 1. **W3C Verifiable Credentials Data Model 2.0**  
    https://www.w3.org/TR/vc-data-model-2.0/
 
-2. **W3C PROV — Provenance Data Model**  
-   https://www.w3.org/TR/prov/
+2. **W3C PROV — Provenance Data Model (Overview)**  
+   https://www.w3.org/TR/prov-overview/
 
 3. **IETF RFC 3161 — Time-Stamp Protocol (TSP)**  
    https://www.rfc-editor.org/rfc/rfc3161.html
