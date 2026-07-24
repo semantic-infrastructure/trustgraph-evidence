@@ -47,6 +47,8 @@ All changes are additive or explicitly deprecated; no silent removals.
 2026-01-22 — Metadata
 - Added explicit `license` field to JSON-LD Dataset object to satisfy schema validation requirements (non-functional change).
 
+July 2026 — Added llms.txt following LLMS Baseline v2.0 to provide a canonical machine-readable orientation layer for published resources.
+
 ---
 
 ## Disclaimer
