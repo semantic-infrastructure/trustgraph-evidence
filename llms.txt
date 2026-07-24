@@ -1,0 +1,15 @@
+# TrustGraph.de
+
+Independent reference on trust, authority, and evidence relationships in machine-consumable systems.
+
+## Canonical Resource
+
+[Home](https://trustgraph.de/)
+
+## Purpose
+
+TrustGraph documents how claims, evidence, and source anchors can be structured into traceable relationships, with a focus on inspectability, provenance, and integrity.
+
+## Repository
+
+[TrustGraph Evidence Repository](https://github.com/semantic-infrastructure/trustgraph-evidence)
