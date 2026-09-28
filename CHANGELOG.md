@@ -49,6 +49,8 @@ All changes are additive or explicitly deprecated; no silent removals.
 
 July 2026 — Added llms.txt following LLMS Baseline v2.0 to provide a canonical machine-readable orientation layer for published resources.
 
+September 2026 — Removed the JSON-LD `license` reference to `https://trustgraph.de/license`, which did not correspond to an established resource in the published site or repository. This corrects the schema-related addition recorded on 2026-01-22. No license resource was created, and no change was made to the Evidence Layer content, semantic model, repository structure, or existing contact representation.
+
 ---
 
 ## Disclaimer
